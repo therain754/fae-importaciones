@@ -1,0 +1,14 @@
+.grupo {
+    border-top: solid 1.5rem;
+    border-bottom: solid 1.5rem;
+}
+
+.grupo:last-child {
+     border-top: solid 1.5rem;
+     border-bottom: solid 3rem;
+ }
+
+.grupo:first-child {
+    border-top: solid 3rem;
+    border-bottom: solid 1.5rem;
+}

@@ -1,0 +1,16 @@
+.fila {
+    border-top: solid rgb(33,37,41) 2px;
+    border-bottom: solid rgb(33,37,41) 2px;;
+}
+.columna {
+    border-left: solid rgb(33,37,41) 2px;
+    border-right: solid rgb(33,37,41) 2px;
+}
+
+.text {
+    font-size: 1.6rem;
+}
+
+.imagen {
+    height: 120px;
+}

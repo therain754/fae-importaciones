@@ -1,0 +1,602 @@
+[
+ {
+  "CODIGO": "FAE23-01",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 13,
+  "IMG": "./src/IMG/IMG-001.jpg"
+ },
+ {
+  "CODIGO": "FAE23-02",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 13,
+  "IMG": "./src/IMG/IMG-002.jpg"
+ },
+ {
+  "CODIGO": "FAE23-03",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 13,
+  "IMG": "./src/IMG/IMG-003.jpg"
+ },
+ {
+  "CODIGO": "FAE23-04",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-004.jpg"
+ },
+ {
+  "CODIGO": "FAE23-05",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 7,
+  "IMG": "./src/IMG/IMG-005.jpg"
+ },
+ {
+  "CODIGO": "FAE23-06",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 8,
+  "IMG": "./src/IMG/IMG-006.jpg"
+ },
+ {
+  "CODIGO": "FAE23-07",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 5,
+  "IMG": "./src/IMG/IMG-007.jpg"
+ },
+ {
+  "CODIGO": "FAE23-08",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 8,
+  "IMG": "./src/IMG/IMG-008.jpg"
+ },
+ {
+  "CODIGO": "FAE23-09",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 30,
+  "IMG": "./src/IMG/IMG-009.jpg"
+ },
+ {
+  "CODIGO": "FAE23-10",
+  "NOMBRE": "Auto",
+  "PRECIO": 28,
+  "IMG": "./src/IMG/IMG-010.jpg"
+ },
+ {
+  "CODIGO": "FAE23-11",
+  "NOMBRE": "Auto",
+  "PRECIO": 11,
+  "IMG": "./src/IMG/IMG-011.jpg"
+ },
+ {
+  "CODIGO": "FAE23-12",
+  "NOMBRE": "Auto",
+  "PRECIO": 50,
+  "IMG": "./src/IMG/IMG-012.jpg"
+ },
+ {
+  "CODIGO": "FAE23-13",
+  "NOMBRE": "Auto",
+  "PRECIO": 12,
+  "IMG": "./src/IMG/IMG-013.jpg"
+ },
+ {
+  "CODIGO": "FAE23-14",
+  "NOMBRE": "Auto",
+  "PRECIO": 11,
+  "IMG": "./src/IMG/IMG-014.jpg"
+ },
+ {
+  "CODIGO": "FAE23-15",
+  "NOMBRE": "Auto",
+  "PRECIO": 11,
+  "IMG": "./src/IMG/IMG-015.jpg"
+ },
+ {
+  "CODIGO": "FAE23-16",
+  "NOMBRE": "Auto",
+  "PRECIO": 13,
+  "IMG": "./src/IMG/IMG-016.jpg"
+ },
+ {
+  "CODIGO": "FAE23-17",
+  "NOMBRE": "Auto",
+  "PRECIO": 12,
+  "IMG": "./src/IMG/IMG-017.jpg"
+ },
+ {
+  "CODIGO": "FAE23-18",
+  "NOMBRE": "Auto",
+  "PRECIO": 12,
+  "IMG": "./src/IMG/IMG-018.jpg"
+ },
+ {
+  "CODIGO": "FAE23-19",
+  "NOMBRE": "Auto",
+  "PRECIO": 12,
+  "IMG": "./src/IMG/IMG-019.jpg"
+ },
+ {
+  "CODIGO": "FAE23-20",
+  "NOMBRE": "Auto",
+  "PRECIO": 16,
+  "IMG": "./src/IMG/IMG-020.jpg"
+ },
+ {
+  "CODIGO": "FAE23-21",
+  "NOMBRE": "Auto",
+  "PRECIO": 16,
+  "IMG": "./src/IMG/IMG-021.jpg"
+ },
+ {
+  "CODIGO": "FAE23-22",
+  "NOMBRE": "Auto",
+  "PRECIO": 8,
+  "IMG": "./src/IMG/IMG-022.jpg"
+ },
+ {
+  "CODIGO": "FAE23-23",
+  "NOMBRE": "Auto",
+  "PRECIO": 11,
+  "IMG": "./src/IMG/IMG-023.jpg"
+ },
+ {
+  "CODIGO": "FAE23-24",
+  "NOMBRE": "Auto",
+  "PRECIO": 11,
+  "IMG": "./src/IMG/IMG-024.jpg"
+ },
+ {
+  "CODIGO": "FAE23-25",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-025.jpg"
+ },
+ {
+  "CODIGO": "FAE23-26",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-026.jpg"
+ },
+ {
+  "CODIGO": "FAE23-27",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-027.jpg"
+ },
+ {
+  "CODIGO": "FAE23-28",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-028.jpg"
+ },
+ {
+  "CODIGO": "FAE23-29",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-029.jpg"
+ },
+ {
+  "CODIGO": "FAE23-30",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-030.jpg"
+ },
+ {
+  "CODIGO": "FAE23-31",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-031.jpg"
+ },
+ {
+  "CODIGO": "FAE23-32",
+  "NOMBRE": "Auto",
+  "PRECIO": 9,
+  "IMG": "./src/IMG/IMG-032.jpg"
+ },
+ {
+  "CODIGO": "FAE23-33",
+  "NOMBRE": "Auto",
+  "PRECIO": 5,
+  "IMG": "./src/IMG/IMG-033.jpg"
+ },
+ {
+  "CODIGO": "FAE23-34",
+  "NOMBRE": "Auto",
+  "PRECIO": 15,
+  "IMG": "./src/IMG/IMG-034.jpg"
+ },
+ {
+  "CODIGO": "FAE23-35",
+  "NOMBRE": "Auto",
+  "PRECIO": 12,
+  "IMG": "./src/IMG/IMG-035.jpg"
+ },
+ {
+  "CODIGO": "FAE23-36",
+  "NOMBRE": "Auto",
+  "PRECIO": 6,
+  "IMG": "./src/IMG/IMG-036.jpg"
+ },
+ {
+  "CODIGO": "FAE23-37",
+  "NOMBRE": "Auto",
+  "PRECIO": 8,
+  "IMG": "./src/IMG/IMG-037.jpg"
+ },
+ {
+  "CODIGO": "FAE23-38",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 6,
+  "IMG": "./src/IMG/IMG-038.jpg"
+ },
+ {
+  "CODIGO": "FAE23-39",
+  "NOMBRE": "Muñeca",
+  "PRECIO": 6,
+  "IMG": "./src/IMG/IMG-039.jpg"
+ },
+ {
+  "CODIGO": "FAE23-40",
+  "NOMBRE": "Auto",
+  "PRECIO": 13,
+  "IMG": "./src/IMG/IMG-040.jpg"
+ },
+ {
+  "CODIGO": "FAE23-41",
+  "NOMBRE": "Auto",
+  "PRECIO": 13,
+  "IMG": "./src/IMG/IMG-041.jpg"
+ },
+ {
+  "CODIGO": "FAE23-42",
+  "NOMBRE": "Auto",
+  "PRECIO": 12,
+  "IMG": "./src/IMG/IMG-042.jpg"
+ },
+ {
+  "CODIGO": "FAE23-43",
+  "NOMBRE": "Auto",
+  "PRECIO": 12,
+  "IMG": "./src/IMG/IMG-043.jpg"
+ },
+ {
+  "CODIGO": "FAE23-44",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-044.jpg"
+ },
+ {
+  "CODIGO": "FAE23-45",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-045.jpg"
+ },
+ {
+  "CODIGO": "FAE23-46",
+  "NOMBRE": "Auto",
+  "PRECIO": 30,
+  "IMG": "./src/IMG/IMG-046.jpg"
+ },
+ {
+  "CODIGO": "FAE23-47",
+  "NOMBRE": "Auto",
+  "PRECIO": 30,
+  "IMG": "./src/IMG/IMG-047.jpg"
+ },
+ {
+  "CODIGO": "FAE23-48",
+  "NOMBRE": "Auto",
+  "PRECIO": 50,
+  "IMG": "./src/IMG/IMG-048.jpg"
+ },
+ {
+  "CODIGO": "FAE23-49",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-049.jpg"
+ },
+ {
+  "CODIGO": "FAE23-50",
+  "NOMBRE": "Auto",
+  "PRECIO": 45,
+  "IMG": "./src/IMG/IMG-050.jpg"
+ },
+ {
+  "CODIGO": "FAE23-51",
+  "NOMBRE": "Auto",
+  "PRECIO": 20,
+  "IMG": "./src/IMG/IMG-051.jpg"
+ },
+ {
+  "CODIGO": "FAE23-52",
+  "NOMBRE": "Auto",
+  "PRECIO": 18,
+  "IMG": "./src/IMG/IMG-052.jpg"
+ },
+ {
+  "CODIGO": "FAE23-53",
+  "NOMBRE": "Auto",
+  "PRECIO": 30,
+  "IMG": "./src/IMG/IMG-053.jpg"
+ },
+ {
+  "CODIGO": "FAE23-54",
+  "NOMBRE": "Auto",
+  "PRECIO": 30,
+  "IMG": "./src/IMG/IMG-054.jpg"
+ },
+ {
+  "CODIGO": "FAE23-55",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-055.jpg"
+ },
+ {
+  "CODIGO": "FAE23-56",
+  "NOMBRE": "Auto",
+  "PRECIO": 8,
+  "IMG": "./src/IMG/IMG-056.jpg"
+ },
+ {
+  "CODIGO": "FAE23-57",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-057.jpg"
+ },
+ {
+  "CODIGO": "FAE23-58",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-058.jpg"
+ },
+ {
+  "CODIGO": "FAE23-59",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-059.jpg"
+ },
+ {
+  "CODIGO": "FAE23-60",
+  "NOMBRE": "Auto",
+  "PRECIO": 20,
+  "IMG": "./src/IMG/IMG-060.jpg"
+ },
+ {
+  "CODIGO": "FAE23-61",
+  "NOMBRE": "Auto",
+  "PRECIO": 20,
+  "IMG": "./src/IMG/IMG-061.jpg"
+ },
+ {
+  "CODIGO": "FAE23-62",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-062.jpg"
+ },
+ {
+  "CODIGO": "FAE23-63",
+  "NOMBRE": "Auto",
+  "PRECIO": 20,
+  "IMG": "./src/IMG/IMG-063.jpg"
+ },
+ {
+  "CODIGO": "FAE23-64",
+  "NOMBRE": "Auto",
+  "PRECIO": 20,
+  "IMG": "./src/IMG/IMG-064.jpg"
+ },
+ {
+  "CODIGO": "FAE23-65",
+  "NOMBRE": "Auto",
+  "PRECIO": 18,
+  "IMG": "./src/IMG/IMG-065.jpg"
+ },
+ {
+  "CODIGO": "FAE23-66",
+  "NOMBRE": "Auto",
+  "PRECIO": 40,
+  "IMG": "./src/IMG/IMG-066.jpg"
+ },
+ {
+  "CODIGO": "FAE23-67",
+  "NOMBRE": "Auto",
+  "PRECIO": 30,
+  "IMG": "./src/IMG/IMG-067.jpg"
+ },
+ {
+  "CODIGO": "FAE23-68",
+  "NOMBRE": "Auto",
+  "PRECIO": 40,
+  "IMG": "./src/IMG/IMG-068.jpg"
+ },
+ {
+  "CODIGO": "FAE23-70",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-070.jpg"
+ },
+ {
+  "CODIGO": "FAE23-71",
+  "NOMBRE": "Auto",
+  "PRECIO": 13,
+  "IMG": "./src/IMG/IMG-071.jpg"
+ },
+ {
+  "CODIGO": "FAE23-72",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-072.jpg"
+ },
+ {
+  "CODIGO": "FAE23-73",
+  "NOMBRE": "Auto",
+  "PRECIO": 7,
+  "IMG": "./src/IMG/IMG-073.jpg"
+ },
+ {
+  "CODIGO": "FAE23-74",
+  "NOMBRE": "Auto",
+  "PRECIO": 6,
+  "IMG": "./src/IMG/IMG-074.jpg"
+ },
+ {
+  "CODIGO": "FAE23-75",
+  "NOMBRE": "Auto",
+  "PRECIO": 6,
+  "IMG": "./src/IMG/IMG-075.jpg"
+ },
+ {
+  "CODIGO": "FAE23-76",
+  "NOMBRE": "Auto",
+  "PRECIO": 12,
+  "IMG": "./src/IMG/IMG-076.jpg"
+ },
+ {
+  "CODIGO": "FAE23-77",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-077.jpg"
+ },
+ {
+  "CODIGO": "FAE23-78",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-078.jpg"
+ },
+ {
+  "CODIGO": "FAE23-79",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-079.jpg"
+ },
+ {
+  "CODIGO": "FAE23-80",
+  "NOMBRE": "Auto",
+  "PRECIO": 47,
+  "IMG": "./src/IMG/IMG-080.jpg"
+ },
+ {
+  "CODIGO": "FAE23-81",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-081.jpg"
+ },
+ {
+  "CODIGO": "FAE23-82",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-082.jpg"
+ },
+ {
+  "CODIGO": "FAE23-83",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-083.jpg"
+ },
+ {
+  "CODIGO": "FAE23-84",
+  "NOMBRE": "Auto",
+  "PRECIO": 35,
+  "IMG": "./src/IMG/IMG-084.jpg"
+ },
+ {
+  "CODIGO": "FAE23-85",
+  "NOMBRE": "Auto",
+  "PRECIO": 45,
+  "IMG": "./src/IMG/IMG-085.jpg"
+ },
+ {
+  "CODIGO": "FAE23-86",
+  "NOMBRE": "Auto",
+  "PRECIO": 70,
+  "IMG": "./src/IMG/IMG-086.jpg"
+ },
+ {
+  "CODIGO": "FAE23-87",
+  "NOMBRE": "Auto",
+  "PRECIO": 55,
+  "IMG": "./src/IMG/IMG-087.jpg"
+ },
+ {
+  "CODIGO": "FAE23-88",
+  "NOMBRE": "Auto",
+  "PRECIO": 45,
+  "IMG": "./src/IMG/IMG-088.jpg"
+ },
+ {
+  "CODIGO": "FAE23-89",
+  "NOMBRE": "Auto",
+  "PRECIO": 30,
+  "IMG": "./src/IMG/IMG-089.jpg"
+ },
+ {
+  "CODIGO": "FAE23-90",
+  "NOMBRE": "Auto",
+  "PRECIO": 55,
+  "IMG": "./src/IMG/IMG-090.jpg"
+ },
+ {
+  "CODIGO": "FAE23-91",
+  "NOMBRE": "Auto",
+  "PRECIO": 130,
+  "IMG": "./src/IMG/IMG-091.jpg"
+ },
+ {
+  "CODIGO": "FAE23-92",
+  "NOMBRE": "Auto",
+  "PRECIO": 150,
+  "IMG": "./src/IMG/IMG-092.jpg"
+ },
+ {
+  "CODIGO": "FAE23-93",
+  "NOMBRE": "Auto",
+  "PRECIO": 160,
+  "IMG": "./src/IMG/IMG-093.jpg"
+ },
+ {
+  "CODIGO": "FAE23-94",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-094.jpg"
+ },
+ {
+  "CODIGO": "FAE23-95",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-095.jpg"
+ },
+ {
+  "CODIGO": "FAE23-96",
+  "NOMBRE": "Auto",
+  "PRECIO": 15,
+  "IMG": "./src/IMG/IMG-096.jpg"
+ },
+ {
+  "CODIGO": "FAE23-97",
+  "NOMBRE": "Auto",
+  "PRECIO": 15,
+  "IMG": "./src/IMG/IMG-097.jpg"
+ },
+ {
+  "CODIGO": "FAE23-98",
+  "NOMBRE": "Auto",
+  "PRECIO": 10,
+  "IMG": "./src/IMG/IMG-098.jpg"
+ },
+ {
+  "CODIGO": "FAE23-99",
+  "NOMBRE": "Auto",
+  "PRECIO": 25,
+  "IMG": "./src/IMG/IMG-099.jpg"
+ },
+ {
+  "CODIGO": "FAE23-100",
+  "NOMBRE": "Auto",
+  "PRECIO": 15,
+  "IMG": "./src/IMG/IMG-100.jpg"
+ },
+ {
+  "CODIGO": "FAE23-101",
+  "NOMBRE": "Auto",
+  "PRECIO": 15,
+  "IMG": "./src/IMG/IMG-101.jpg"
+ }
+]
